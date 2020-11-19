@@ -6,7 +6,7 @@ ToDoApp is little app that implements a simple personal task manager. With it yo
 
 ## Built with
 
-This project was developed using Spring Boot with authentication performed using JWT Authentification. The database is managed through MySql using the Hibernate framework.
+This project was developed using Spring Boot + Maven with authentication performed using JWT Authentification. The database is managed through MySql using the Hibernate framework.
 
 ## Usage
 
