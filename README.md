@@ -1,6 +1,6 @@
 # ToDoApp
 
-## About
+## Project Summary
 
 ToDoApp is little app that implements a simple personal task manager. With it you can create your own to do list and keep track of what remains to be done.
 
